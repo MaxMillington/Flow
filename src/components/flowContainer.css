@@ -58,3 +58,29 @@
 .flow-button:hover {
   color: white;
 }
+
+.flow-error {
+  color: darkred;
+  font-family: inherit;
+  font-size: inherit;
+  margin-top: 10px;
+  min-height: 20px;
+}
+
+.flow-table {
+  margin: 30px auto auto auto;
+  width: 50%;
+  border: 1px solid black;
+  padding: 10px;
+}
+
+table {
+  border-collapse: collapse;
+  padding-top: 20px;
+}
+
+
+th, td {
+  border: 1px solid black;
+  padding: 10px;
+}
